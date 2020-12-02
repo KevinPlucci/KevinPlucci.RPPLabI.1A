@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1606919081 source:c:\users\usuario\desktop\recuperatoorio del primer parcial\recuperatorio herramientas\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"alquiler.h"
+	"validaciones.h"
+
+1606919081 c:\users\usuario\desktop\recuperatoorio del primer parcial\recuperatorio herramientas\alquiler.h
+
+1606919229 c:\users\usuario\desktop\recuperatoorio del primer parcial\recuperatorio herramientas\validaciones.h
+
+1606919154 source:c:\users\usuario\desktop\recuperatoorio del primer parcial\recuperatorio herramientas\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1606919254 source:c:\users\usuario\desktop\recuperatoorio del primer parcial\recuperatorio herramientas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"validaciones.h"
+
